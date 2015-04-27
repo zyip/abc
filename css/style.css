@@ -318,7 +318,41 @@ a:link, a:active, a:focus, a:visited, a:hover {color: #444; text-decoration: non
 }
 
 
+  .topRight{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    margin-right: 0px;
+    z-index: 20;
+    opacity: .7;
+  }
 
+
+.triangle-topright {
+  width: 0;
+  height: 0;
+  border-top: 7.5em solid black;
+  border-left: 7.5em solid transparent;
+}
+
+.topRightContent{
+  width: 3.8em;
+  color: white;
+  padding-right: .5em;
+  padding-top: 1.4em;
+  font-size: 1.6em;
+  -webkit-transform: rotate(45deg);
+
+/* Firefox */
+-moz-transform: rotate(45deg);
+
+/* IE */
+-ms-transform: rotate(45deg);
+
+/* Opera */
+-o-transform: rotate(45deg);
+
+}
 
 
 
