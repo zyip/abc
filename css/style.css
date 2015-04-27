@@ -331,8 +331,8 @@ a:link, a:active, a:focus, a:visited, a:hover {color: #444; text-decoration: non
 .triangle-topright {
   width: 0;
   height: 0;
-  border-top: 7.5em solid black;
-  border-left: 7.5em solid transparent;
+  border-top: 8.5em solid black;
+  border-left: 8.5em solid transparent;
 }
 
 .topRightContent{
