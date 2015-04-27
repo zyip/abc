@@ -336,7 +336,7 @@ a:link, a:active, a:focus, a:visited, a:hover {color: #444; text-decoration: non
 }
 
 .topRightContent{
-  opacity: 1;
+  opacity: .9;
   width: 3.8em;
   color: white;
   padding-right: .5em;
