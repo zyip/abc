@@ -398,7 +398,10 @@ a:link, a:active, a:focus, a:visited, a:hover {color: #444; text-decoration: non
 }
 
 
-
+.hidden{
+  width: 0px;
+  height: 0px;
+}
 
 
 
